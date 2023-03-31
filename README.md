@@ -6,11 +6,11 @@
 - :computer: Fascinated about technology
 - :basketball: Lover of sports and esports 🎮
 
-### :eyes: What I am doing
+### :eyes: What I am doing currently
 
-- :bookmark_tabs: I’m currently studying Java, PHP and Python
-- :pencil2: I’m currently working on [Sortech](https://sortech.com.br/)
-- :gear: I’m currently learning Clean Architecture
+- :bookmark_tabs: I’m studying Java, PHP and Python
+- :pencil2: I’m working on [Sortech](https://sortech.com.br/)
+- :gear: I’m learning Clean Architecture
 
 ### :mailbox_with_mail: Find me and get in touch
 
