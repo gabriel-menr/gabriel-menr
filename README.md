@@ -4,7 +4,7 @@
 
 - :ledger: Software engineering student
 - :computer: Fascinated about technology
-- :sports: Lover of sports and esports 🏀🎮
+- :basketball: Lover of sports and esports 🎮
 
 ### :eyes: What I am doing
 
