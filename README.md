@@ -10,7 +10,7 @@
 
 - :bookmark_tabs: I’m currently studying Java, PHP and Python
 - :pencil2: I’m currently working on [Sortech](https://sortech.com.br/)
-- :robot: I’m currently learning Clean Architecture
+- :gear: I’m currently learning Clean Architecture
 
 ### :mailbox_with_mail: Find me and get in touch
 
