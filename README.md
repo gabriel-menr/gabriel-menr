@@ -1,4 +1,4 @@
-## :grinning: Hi there, I am Gabriel Almeida
+# Hi! I'm Gabriel Almeida! 👋🏿
 
 ### :tada: About Me
 
