@@ -27,7 +27,7 @@
                                                                                                                                                     
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Gabriel-Excel" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg">
-  <img align="center" alt="Gabriel-PowerBI" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" />
+  <img align="center" alt="Gabriel-PowerBI" height="30" width="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/31535a198661b2549cefd97c862db9b1a97633b5/SVG/Power-BI.svg" />
   <img align="center" alt="Gabriel-Python" height="30" width="40"src="https://cdn.worldvectorlogo.com/logos/python-5.svg" />
   <img align="center" alt="Gabriel-R" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
   <img align="center" alt="Gabriel-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
