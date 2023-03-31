@@ -34,7 +34,6 @@
   <img align="center" alt="Gabriel-Angular" height="30" width="40"src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/angularjs/angularjs-plain.svg" />
   <img align="center" alt="Gabriel-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Gabriel-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Gabriel-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   <img align="center" alt="Gabriel-Eclipse" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg"/>
   <img align="center" alt="Gabriel-Intellij" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>
   <img align="center" alt="Gabriel-PhpStorm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg"/>
