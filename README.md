@@ -2,7 +2,7 @@
 
 ### :tada: About Me
 
-- :ledger: Software engineering student
+- :ledger: Software engineer
 - :computer: Fascinated about technology
 
 ### :eyes: What I am doing currently
